@@ -53,4 +53,19 @@ function quadrado(numero) {
     return numero * numero;
 }
 let resultado = quadrado(9)
-console.log(resultado) 
+console.log(resultado)
+
+// Arrays exercicios //
+var listaGenerica = []
+console.log(listaGenerica)
+
+var linguagensDeProgramacao = ['JavaScript', 'C', 'C++', 'Kotlin', 'Python']
+console.log(linguagensDeProgramacao)
+
+linguagensDeProgramacao.push('Java', 'Ruby', 'GoLang')
+console.log(linguagensDeProgramacao)
+
+var listaNomes = ['Adriano', 'Aline', 'Honey']
+console.log(listaNomes[0])
+console.log(listaNomes[1])
+console.log(listaNomes[2])
