@@ -1,4 +1,4 @@
-let tituloDois = document.querySelector('h1')
+let titulo = document.querySelector('h1')
 titulo.innerHTML = 'Hora do Desafio'
 
 function exibirMensagemNoConsole() {
